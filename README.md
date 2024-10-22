@@ -1,2 +1,4 @@
 # Minesweeper-Game
-<p align="center"> <video src="[images/video.mp4][(https://drive.google.com/file/d/1Z5UEBaQhrCl43DZz_0zHh0v4SMuulB5f/view?usp=drive_link)](https://drive.google.com/file/d/1Z5UEBaQhrCl43DZz_0zHh0v4SMuulB5f/view?usp=sharing)" width="500px">
+
+https://github.com/user-attachments/assets/0ba692a1-b2ea-4db6-8b49-8bea56b2b1ae
+
